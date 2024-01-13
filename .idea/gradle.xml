@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/About abstract classes" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Parts of an abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Single method" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous class/Tricky Java  Final in Anonymous Classes" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Checked exception with constructor" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/DriverNotReadyException" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Handle incorrect inputs" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Journey Towards Java Default Methods" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/The requirement" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Instance without type argument" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Parts of code" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Kinds of method references" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Syntax of method references" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/About constructors" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/The Int class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/A disadvantage" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Social networks" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Initialize a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Resizable structure" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/The one suitable description" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Closing the window" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Count a window active time" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Listener triggered" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
